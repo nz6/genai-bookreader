@@ -1,1 +1,26 @@
+{
+    "books":[
+        {
+            "title": "Ishmael",
+            "fileName": "../data/ishmael-a-novel-by-daniel-quinn-z-lib.org_",
+            "chapters":[
+                {"pos":0, "title":"PREFACE"},
+                {"pos":1, "title":"ONE"},
+                {"pos":2, "title":"TWO"}, 
+                {"pos":3, "title":"THREE"},
+                {"pos":4, "title":"FOUR"},
+                {"pos":5, "title":"FIVE"},
+                {"pos":6, "title":"SIX"},
+                {"pos":7, "title":"SEVEN"},
+                {"pos":8, "title":"EIGHT"},
+                {"pos":9, "title":"NINE"},
+                {"pos":10, "title":"TEN"},
+                {"pos":11, "title":"ELEVEN"},
+                {"pos":12, "title":"TWELVE"},
+                {"pos":13, "title":"THIRTEEN"},
+                {"pos":14, "title":"END"}
+            ]
+        }
 
+    ]
+}
